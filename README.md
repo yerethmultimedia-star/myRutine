@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # myRutine - Personal Performance Tracker
 
 Aplicación móvil multiplataforma (iOS y Android) para mejorar el rendimiento personal mediante rutinas, tareas y seguimiento de hábitos.
@@ -161,3 +162,6 @@ Ver `DOCKER.md` para más detalles sobre configuración y uso.
 - Widgets para iOS/Android
 - Modo oscuro
 - Mejoras en visualización de gráficos
+=======
+# myRutine
+>>>>>>> a528648 (Initial commit)
