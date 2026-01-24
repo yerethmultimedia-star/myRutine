@@ -41,3 +41,28 @@ mobile/.metro-health-check*
 # Backend
 api/uploads/
 api/.env
+
+# Xcode
+Xcode.app/
+*.xcworkspace
+!**/xcshareddata/**/*.xcworkspace
+*.xcodeproj
+!**/xcshareddata/**/*.xcodeproj
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad
+
+# iOS
+mobile/ios/Pods/
+mobile/ios/build/
+mobile/ios/*.xcworkspace
+mobile/ios/*.xcuserdata
+mobile/ios/.xcode.env.local
+mobile/ios/DerivedData/
+
+# Scripts temporales
+*.sh.bak
+instalar-*.sh
+configurar-*.sh
+ejecutar-*.sh
+corregir-*.sh
